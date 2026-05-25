@@ -14,7 +14,7 @@
   <a href="https://t.me/woyauziaw"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://github.com/woyauziaw"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://m.youtube.com/woyauziaw"><img src="https://img.shields.io/youtube/channel/subscribers/UCRclhEcLQqZUuegsoBFdwYQ" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=oziispedzz&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=oziispedzz&color=blue&style=flat-square&label=Profile+Dilihat" />
+  <a href="https://komarev.com/ghpvc/?username=oziispedzz&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=woyauziaw&color=blue&style=flat-square&label=Profile+Dilihat" />
 
 </p>
 
