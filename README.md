@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/woyauziaw.png" width="200px" /></>
 </p>
-<p align="center">I am a backend and frontend developer from Indonesia</p>
+<p align="center">I am a fullstack developer from Indonesia</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woyauziaw" alt="woyauziaw" /></a> </p>
 
